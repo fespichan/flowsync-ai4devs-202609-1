@@ -311,6 +311,5 @@ el R2, parcial.
 ### Incoherencias
 Ninguna en lo que comprobé (R1 y R2).
 ### Bug o contrato
-No supe decidir si que el login no limite la longitud de la contraseña.
 No supe decidir si que el login no limite la longitud de la contraseña es una decisión sensata, o un descuido
 
