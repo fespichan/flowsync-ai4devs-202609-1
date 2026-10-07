@@ -294,3 +294,23 @@ La aplicación web SHALL permitir cerrar la sesión desde el perfil, y SHALL dej
 
 - **WHEN** una persona pulsa "Cerrar sesión" y el servidor no responde
 - **THEN** la sesión se cierra igualmente en ese navegador y la persona llega a la pantalla de inicio de sesión
+
+
+
+## Parte B
+
+Requisitos escritos por el agente: 14
+COMPROBADOS POR MI: 1
+R1 registro API: parcial
+
+FIN DEL RELOJ
+
+el R1, corregido a completa
+el R2, parcial.
+
+### Incoherencias
+Ninguna en lo que comprobé (R1 y R2).
+### Bug o contrato
+No supe decidir si que el login no limite la longitud de la contraseña podría ser un descuido.
+No supe decidir si que el login no limite la longitud de la contraseña es una decisión sensata, o un descuido
+
